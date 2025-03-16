@@ -19,3 +19,23 @@
 | **Example**    | "100, 90, 80" (Just numbers).                        | "A student scored 90% on the test" (Meaningful insight). |
 | **Structure**  | Can be structured, semi-structured, or unstructured. | Always structured and organized.                         |
 | **Use Case**   | Stored in databases, logs, or spreadsheets.          | Used for reports, analysis, and decision-making.         |
+
+#### What is DBMS and Why ?
+
+- A Database Management System (DBMS) is software that enables the creation, management, and manipulation of databases. It provides an interface for users and applications to interact with the data stored in a database, ensuring data integrity, security, and consistency.
+
+Key Components of DBMS:
+
+- Data Storage: Organizes data efficiently to minimize redundancy.
+- Data Retrieval: Facilitates querying and accessing data.
+- Data Manipulation: Allows users to insert, update, and delete data.
+- Security: Controls access to data and provides authentication mechanisms.
+- Backup and Recovery: Ensures data is saved and can be restored in case of failures.
+
+Why Use a DBMS?
+
+- Data Handling: Simplifies complex data operations and enhances efficiency.
+- Data Integrity: Maintains accuracy and consistency through constraints and rules.
+- Multi-user Access: Supports multiple users accessing data simultaneously while maintaining data integrity.
+- Data Security: Protects sensitive data from unauthorized access.
+  Scalability: Handles large volumes of data and supports growing business needs.
