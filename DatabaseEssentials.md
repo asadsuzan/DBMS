@@ -142,3 +142,15 @@ Disadvantages of Relational Model:
 - Object-Relational Impedance Mismatch: Difficult to map objects from object-oriented programming languages to relational tables.
 - Schema Rigidity: Can be difficult to change the schema after the database is created.
 - Not well-suited for unstructured data: Relational databases are designed for structured data.
+
+### Anatomy of a Table/Relation
+
+- The "Anatomy of a Table/Relation" refers to the fundamental components that make up a database table, also known as a relation. It boils down to this:
+
+A table/relation is structured data organized into rows (tuples/records) and columns (attributes/fields).
+
+Rows (Tuples/Records): Each row represents a single instance or entity. Think of it as a complete data set for one item being tracked.
+Columns (Attributes/Fields): Each column represents a specific characteristic or property of the entity. Think of it as a label for the data stored in that column for each row.
+In essence, it's a grid where rows hold individual data points and columns define what kind of data each point is.
+
+Therefore, a table/relation is composed of rows and columns which collectively describe a set of related information.
