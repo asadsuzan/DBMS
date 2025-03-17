@@ -12,7 +12,8 @@ Database design is a crucial process that involves creating a structured framewo
 
 **2. Conceptual Data Modeling:**
 
-- **Entity-Relationship Diagram (ERD):** Create an ERD to visually represent the entities (objects of interest), their attributes (properties), and the relationships between them.
+- **Entity-Relationship Diagram (ERD):** An Entity Relationship diagram (ER) is a visual representation used in database design to illustrate the relationship between entities. It shows how different entities relate to each other through various relationships like one-to-one, one-to-many, many-to-many.
+  Create an ERD to visually represent the entities (objects of interest), their attributes (properties), and the relationships between them.
   - **Entities:** Represent real-world objects or concepts (e.g., Customer, Product, Order).
   - **Attributes:** Describe the characteristics of an entity (e.g., Customer Name, Product Price, Order Date).
   - **Relationships:** Define how entities are related to each other (e.g., a Customer places an Order). Common relationship types are one-to-one, one-to-many, and many-to-many.
